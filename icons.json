@@ -3,8 +3,8 @@
   "description": " ",
   "icons": [
     {
-      "name": "quanqiu(1).png",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/quanqiu(1).png"
+      "name": "Apple2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Apple2.png"
     },
     {
       "name": "sheep.png",
@@ -19,8 +19,8 @@
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Microsoft.png"
     },
     {
-      "name": "apple(1).png",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apple(1).png"
+      "name": "Loon3.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Loon3.png"
     },
     {
       "name": "Apple_Arcade.png",
@@ -61,6 +61,10 @@
     {
       "name": "Quantumult.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Quantumult.png"
+    },
+    {
+      "name": "quanqiu2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/quanqiu2.png"
     },
     {
       "name": "Azure.png",
@@ -127,6 +131,10 @@
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/weibo_01.png"
     },
     {
+      "name": "Loon2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Loon2.png"
+    },
+    {
       "name": "Apple.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Apple.png"
     },
@@ -149,10 +157,6 @@
     {
       "name": "youtube4.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/youtube4.png"
-    },
-    {
-      "name": "Loon_03.png",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Loon_03.png"
     },
     {
       "name": "oil.png",
@@ -215,14 +219,6 @@
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Infuse.png"
     },
     {
-      "name": "Loon_01.png",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Loon_01.png"
-    },
-    {
-      "name": "Loon_02.png",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Loon_02.png"
-    },
-    {
       "name": "xbox.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/xbox.png"
     },
@@ -239,6 +235,10 @@
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/icon.png"
     },
     {
+      "name": "Loon1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Loon1.png"
+    },
+    {
       "name": "YouTubeMusic.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/YouTubeMusic.png"
     },
@@ -253,10 +253,6 @@
     {
       "name": "Surge.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Surge.png"
-    },
-    {
-      "name": "quanqiu(2).png",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/quanqiu(2).png"
     },
     {
       "name": "OneDrive.png",
@@ -313,6 +309,10 @@
     {
       "name": "Weibo-00.png",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Weibo-00.png"
+    },
+    {
+      "name": "quanqiu1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/quanqiu1.png"
     },
     {
       "name": "shadowrocket.png",
