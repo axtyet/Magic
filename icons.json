@@ -1,0 +1,1834 @@
+{
+  "name": "图标订阅",
+  "description": " ",
+  "icons": [
+    {
+      "name": "Emby3.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Emby3.png"
+    },
+    {
+      "name": "bilibili(4).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bilibili(4).png"
+    },
+    {
+      "name": "DisneyPlus.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/DisneyPlus.png"
+    },
+    {
+      "name": "pinduoduo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/pinduoduo.png"
+    },
+    {
+      "name": "texon.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/texon.png"
+    },
+    {
+      "name": "iqooc.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/iqooc.png"
+    },
+    {
+      "name": "PinYun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/PinYun.png"
+    },
+    {
+      "name": "Quantumult_X_4.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_4.png"
+    },
+    {
+      "name": "NationalMonument.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/NationalMonument.png"
+    },
+    {
+      "name": "steam(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/steam(1).png"
+    },
+    {
+      "name": "Baidu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Baidu.png"
+    },
+    {
+      "name": "bing(3).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bing(3).png"
+    },
+    {
+      "name": "Peiqian.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Peiqian.png"
+    },
+    {
+      "name": "Flowercloud.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Flowercloud.png"
+    },
+    {
+      "name": "smbc.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/smbc.png"
+    },
+    {
+      "name": "SydneyOperaHouse.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SydneyOperaHouse.png"
+    },
+    {
+      "name": "StarCat.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/StarCat.png"
+    },
+    {
+      "name": "ShenLan1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ShenLan1.png"
+    },
+    {
+      "name": "Star+.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Star+.png"
+    },
+    {
+      "name": "Paypal.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Paypal.png"
+    },
+    {
+      "name": "Bigbus-02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bigbus-02.png"
+    },
+    {
+      "name": "apple(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/apple(1).png"
+    },
+    {
+      "name": "Scr.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Scr.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Auto.png"
+    },
+    {
+      "name": "BiliBiliTV.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BiliBiliTV.png"
+    },
+    {
+      "name": "Kuromis.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Kuromis.png"
+    },
+    {
+      "name": "Midsummer.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Midsummer.png"
+    },
+    {
+      "name": "Ytoo1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Ytoo1.png"
+    },
+    {
+      "name": "OnlyFans.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/OnlyFans.png"
+    },
+    {
+      "name": "Loon_08.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_08.png"
+    },
+    {
+      "name": "weibo_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/weibo_01.png"
+    },
+    {
+      "name": "Loon_10.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_10.png"
+    },
+    {
+      "name": "mail2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/mail2.png"
+    },
+    {
+      "name": "CaiYun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CaiYun.png"
+    },
+    {
+      "name": "github1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/github1.png"
+    },
+    {
+      "name": "juzi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/juzi.png"
+    },
+    {
+      "name": "netflix(old).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/netflix(old).png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Instagram.png"
+    },
+    {
+      "name": "bing(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bing(1).png"
+    },
+    {
+      "name": "whatsapp1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/whatsapp1.png"
+    },
+    {
+      "name": "Misty+.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Misty+.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SSID.png"
+    },
+    {
+      "name": "Office.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Office.png"
+    },
+    {
+      "name": "Mulgore.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Mulgore.png"
+    },
+    {
+      "name": "telegram02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/telegram02.png"
+    },
+    {
+      "name": "YeJiChang.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/YeJiChang.png"
+    },
+    {
+      "name": "dlam.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/dlam.png"
+    },
+    {
+      "name": "NakoNako.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/NakoNako.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BGP.png"
+    },
+    {
+      "name": "CurlyMouse.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CurlyMouse.png"
+    },
+    {
+      "name": "Loon_04.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_04.png"
+    },
+    {
+      "name": "KaiLu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/KaiLu.png"
+    },
+    {
+      "name": "game.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/game.png"
+    },
+    {
+      "name": "Loon_13.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_13.png"
+    },
+    {
+      "name": "bing(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bing(2).png"
+    },
+    {
+      "name": "spotify(black).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/spotify(black).png"
+    },
+    {
+      "name": "Quantumult_X_3.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_3.png"
+    },
+    {
+      "name": "quanqiu(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/quanqiu(1).png"
+    },
+    {
+      "name": "TikTok_2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/TikTok_2.png"
+    },
+    {
+      "name": "iqiyi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/iqiyi.png"
+    },
+    {
+      "name": "Aiqiyi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Aiqiyi.png"
+    },
+    {
+      "name": "Bailan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bailan.png"
+    },
+    {
+      "name": "emby2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/emby2.png"
+    },
+    {
+      "name": "Bdd.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bdd.png"
+    },
+    {
+      "name": "emby1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/emby1.png"
+    },
+    {
+      "name": "stash2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/stash2.png"
+    },
+    {
+      "name": "Naiyou.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Naiyou.png"
+    },
+    {
+      "name": "FishChips_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/FishChips_01.png"
+    },
+    {
+      "name": "qinglong_logo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/qinglong_logo.png"
+    },
+    {
+      "name": "GoogleDrive.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/GoogleDrive.png"
+    },
+    {
+      "name": "CcEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CcEmby.png"
+    },
+    {
+      "name": "Snapchat.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Snapchat.png"
+    },
+    {
+      "name": "Loon_23.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_23.png"
+    },
+    {
+      "name": "bigbus.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bigbus.png"
+    },
+    {
+      "name": "switch.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/switch.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/HBO.png"
+    },
+    {
+      "name": "Webdav.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Webdav.png"
+    },
+    {
+      "name": "Final01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Final01.png"
+    },
+    {
+      "name": "DxzEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/DxzEmby.png"
+    },
+    {
+      "name": "tiktok(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/tiktok(1).png"
+    },
+    {
+      "name": "AR.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AR.png"
+    },
+    {
+      "name": "Loon_11.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_11.png"
+    },
+    {
+      "name": "FishPort.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/FishPort.png"
+    },
+    {
+      "name": "Safari.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Safari.png"
+    },
+    {
+      "name": "Fishchip.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Fishchip.png"
+    },
+    {
+      "name": "TikTok_1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/TikTok_1.png"
+    },
+    {
+      "name": "X.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/X.png"
+    },
+    {
+      "name": "CurlyMouse1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CurlyMouse1.png"
+    },
+    {
+      "name": "Apple_Wallet.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Wallet.png"
+    },
+    {
+      "name": "Csn.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Csn.png"
+    },
+    {
+      "name": "ShenLan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ShenLan.png"
+    },
+    {
+      "name": "relay.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/relay.png"
+    },
+    {
+      "name": "EmbyHub.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EmbyHub.png"
+    },
+    {
+      "name": "MengMeng.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/MengMeng.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple.png"
+    },
+    {
+      "name": "Qingliang.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Qingliang.png"
+    },
+    {
+      "name": "EF2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EF2.png"
+    },
+    {
+      "name": "JingFuGong.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/JingFuGong.png"
+    },
+    {
+      "name": "Bywave.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bywave.png"
+    },
+    {
+      "name": "EiffelTower.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EiffelTower.png"
+    },
+    {
+      "name": "huacloud.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/huacloud.png"
+    },
+    {
+      "name": "Loon_21.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_21.png"
+    },
+    {
+      "name": "Flareix.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Flareix.png"
+    },
+    {
+      "name": "Loon_9.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_9.png"
+    },
+    {
+      "name": "Loon_02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_02.png"
+    },
+    {
+      "name": "ChatGPT.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT.png"
+    },
+    {
+      "name": "shadowrocket-01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/shadowrocket-01.png"
+    },
+    {
+      "name": "play(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/play(2).png"
+    },
+    {
+      "name": "Element.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Element.png"
+    },
+    {
+      "name": "Apple_AppleStore.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_AppleStore.png"
+    },
+    {
+      "name": "ChatGPT3.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT3.png"
+    },
+    {
+      "name": "ALiYun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ALiYun.png"
+    },
+    {
+      "name": "Stash_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Stash_01.png"
+    },
+    {
+      "name": "DJ.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/DJ.png"
+    },
+    {
+      "name": "Apple_Safari.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Safari.png"
+    },
+    {
+      "name": "Miaosu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Miaosu.png"
+    },
+    {
+      "name": "Loon_5.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_5.png"
+    },
+    {
+      "name": "Texon1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Texon1.png"
+    },
+    {
+      "name": "Singularity.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Singularity.png"
+    },
+    {
+      "name": "Jellyfin.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Jellyfin.png"
+    },
+    {
+      "name": "EdNovas.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EdNovas.png"
+    },
+    {
+      "name": "O9o.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/O9o.png"
+    },
+    {
+      "name": "WhatsApp.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/WhatsApp.png"
+    },
+    {
+      "name": "PetronasTowers.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/PetronasTowers.png"
+    },
+    {
+      "name": "Linkcube.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Linkcube.png"
+    },
+    {
+      "name": "Sifei.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Sifei.png"
+    },
+    {
+      "name": "AdBlock2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AdBlock2.png"
+    },
+    {
+      "name": "Chinabroadnet.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Chinabroadnet.png"
+    },
+    {
+      "name": "WeiboTalk.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/WeiboTalk.png"
+    },
+    {
+      "name": "kuaishou.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/kuaishou.png"
+    },
+    {
+      "name": "weibo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/weibo.png"
+    },
+    {
+      "name": "XueQiu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/XueQiu.png"
+    },
+    {
+      "name": "Misty.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Misty.png"
+    },
+    {
+      "name": "GetSomeFries.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/GetSomeFries.png"
+    },
+    {
+      "name": "Script-Hub.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Script-Hub.png"
+    },
+    {
+      "name": "Ark.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Ark.png"
+    },
+    {
+      "name": "Weibo2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Weibo2.png"
+    },
+    {
+      "name": "Loon_25.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_25.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Google.png"
+    },
+    {
+      "name": "O9o1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/O9o1.png"
+    },
+    {
+      "name": "wk.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/wk.png"
+    },
+    {
+      "name": "Netease.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Netease.png"
+    },
+    {
+      "name": "EmbyClub.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EmbyClub.png"
+    },
+    {
+      "name": "bing.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bing.png"
+    },
+    {
+      "name": "Quantumult_X_5.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_5.png"
+    },
+    {
+      "name": "Xingjiabi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xingjiabi.png"
+    },
+    {
+      "name": "Odyssey.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Odyssey.png"
+    },
+    {
+      "name": "didi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/didi.png"
+    },
+    {
+      "name": "SubStore-01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SubStore-01.png"
+    },
+    {
+      "name": "BBQ.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BBQ.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Emby.png"
+    },
+    {
+      "name": "Apple_GameCenter.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_GameCenter.png"
+    },
+    {
+      "name": "Weibo-00.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Weibo-00.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Pornhub.png"
+    },
+    {
+      "name": "CharonTV.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CharonTV.png"
+    },
+    {
+      "name": "Infuse.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Infuse.png"
+    },
+    {
+      "name": "Xiaoheizi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xiaoheizi.png"
+    },
+    {
+      "name": "Youtube(black).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Youtube(black).png"
+    },
+    {
+      "name": "Xiaoyi.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xiaoyi.png"
+    },
+    {
+      "name": "GMedia.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/GMedia.png"
+    },
+    {
+      "name": "BoxJS.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BoxJS.png"
+    },
+    {
+      "name": "xbox.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/xbox.png"
+    },
+    {
+      "name": "youtube(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/youtube(2).png"
+    },
+    {
+      "name": "twitter(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/twitter(1).png"
+    },
+    {
+      "name": "Atvii.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Atvii.png"
+    },
+    {
+      "name": "AppleMusic.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AppleMusic.png"
+    },
+    {
+      "name": "Liangyuandian.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Liangyuandian.png"
+    },
+    {
+      "name": "MTC.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/MTC.png"
+    },
+    {
+      "name": "google(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/google(1).png"
+    },
+    {
+      "name": "Titan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Titan.png"
+    },
+    {
+      "name": "Loon_05.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_05.png"
+    },
+    {
+      "name": "RiceStore.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/RiceStore.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Final.png"
+    },
+    {
+      "name": "QqEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/QqEmby.png"
+    },
+    {
+      "name": "DaHangHai.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/DaHangHai.png"
+    },
+    {
+      "name": "Guoji.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Guoji.png"
+    },
+    {
+      "name": "YYZ.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/YYZ.png"
+    },
+    {
+      "name": "Loon_18.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_18.png"
+    },
+    {
+      "name": "whatsapp(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/whatsapp(2).png"
+    },
+    {
+      "name": "ELE.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ELE.png"
+    },
+    {
+      "name": "microsoft2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/microsoft2.png"
+    },
+    {
+      "name": "WangZhe.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/WangZhe.png"
+    },
+    {
+      "name": "Apple_Home.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Home.png"
+    },
+    {
+      "name": "Cisco.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Cisco.png"
+    },
+    {
+      "name": "Xop.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xop.png"
+    },
+    {
+      "name": "OpenAI.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/OpenAI.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Disney+.png"
+    },
+    {
+      "name": "WhatsApp3.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/WhatsApp3.png"
+    },
+    {
+      "name": "Mihuan1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Mihuan1.png"
+    },
+    {
+      "name": "steam.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/steam.png"
+    },
+    {
+      "name": "Nebula.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Nebula.png"
+    },
+    {
+      "name": "Jyctv.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Jyctv.png"
+    },
+    {
+      "name": "Loon_28.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_28.png"
+    },
+    {
+      "name": "twitch.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/twitch.png"
+    },
+    {
+      "name": "Linkcube1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Linkcube1.png"
+    },
+    {
+      "name": "Xray.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xray.png"
+    },
+    {
+      "name": "Bajie.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bajie.png"
+    },
+    {
+      "name": "Poafu2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Poafu2.png"
+    },
+    {
+      "name": "telegram01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/telegram01.png"
+    },
+    {
+      "name": "Xiaoheizi1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xiaoheizi1.png"
+    },
+    {
+      "name": "Tag.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Tag.png"
+    },
+    {
+      "name": "ElevenPlus.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ElevenPlus.png"
+    },
+    {
+      "name": "StudyFun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/StudyFun.png"
+    },
+    {
+      "name": "tiktok((2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/tiktok((2).png"
+    },
+    {
+      "name": "Github.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Github.png"
+    },
+    {
+      "name": "iRingo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/iRingo.png"
+    },
+    {
+      "name": "paypal(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/paypal(1).png"
+    },
+    {
+      "name": "Jikongjian.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Jikongjian.png"
+    },
+    {
+      "name": "LiangShan1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/LiangShan1.png"
+    },
+    {
+      "name": "dls.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/dls.png"
+    },
+    {
+      "name": "Proxy.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Proxy.png"
+    },
+    {
+      "name": "SubStore.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SubStore.png"
+    },
+    {
+      "name": "ximalaya.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ximalaya.png"
+    },
+    {
+      "name": "airport.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/airport.png"
+    },
+    {
+      "name": "QQvideo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/QQvideo.png"
+    },
+    {
+      "name": "oil.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/oil.png"
+    },
+    {
+      "name": "instagram(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/instagram(1).png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Microsoft.png"
+    },
+    {
+      "name": "Emby4.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Emby4.png"
+    },
+    {
+      "name": "PornEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/PornEmby.png"
+    },
+    {
+      "name": "microsoft(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/microsoft(1).png"
+    },
+    {
+      "name": "Bigairport.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bigairport.png"
+    },
+    {
+      "name": "Peach.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Peach.png"
+    },
+    {
+      "name": "whatsapp_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/whatsapp_01.png"
+    },
+    {
+      "name": "RiotGames.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/RiotGames.png"
+    },
+    {
+      "name": "Apple_SpringLoaded.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_SpringLoaded.png"
+    },
+    {
+      "name": "xiaohongshu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/xiaohongshu.png"
+    },
+    {
+      "name": "blacklist(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/blacklist(1).png"
+    },
+    {
+      "name": "Lvlian.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Lvlian.png"
+    },
+    {
+      "name": "Ninja.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Ninja.png"
+    },
+    {
+      "name": "sysxc.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/sysxc.png"
+    },
+    {
+      "name": "SKNP.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SKNP.png"
+    },
+    {
+      "name": "Apple_Books.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Books.png"
+    },
+    {
+      "name": "IPLC.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/IPLC.png"
+    },
+    {
+      "name": "Magic.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Magic.png"
+    },
+    {
+      "name": "Bailanyun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bailanyun.png"
+    },
+    {
+      "name": "SubStore-02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SubStore-02.png"
+    },
+    {
+      "name": "Alist.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Alist.png"
+    },
+    {
+      "name": "Loon_12.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_12.png"
+    },
+    {
+      "name": "youtube(red).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/youtube(red).png"
+    },
+    {
+      "name": "Quantumult_X_6.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_6.png"
+    },
+    {
+      "name": "HentaiHome.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/HentaiHome.png"
+    },
+    {
+      "name": "quanqiu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/quanqiu.png"
+    },
+    {
+      "name": "Mihuan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Mihuan.png"
+    },
+    {
+      "name": "StudyFun1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/StudyFun1.png"
+    },
+    {
+      "name": "quanqiu(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/quanqiu(2).png"
+    },
+    {
+      "name": "meta.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/meta.png"
+    },
+    {
+      "name": "Alink.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Alink.png"
+    },
+    {
+      "name": "BBbus.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BBbus.png"
+    },
+    {
+      "name": "Csn2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Csn2.png"
+    },
+    {
+      "name": "iCloud.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/iCloud.png"
+    },
+    {
+      "name": "ShuiMu1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ShuiMu1.png"
+    },
+    {
+      "name": "Hxlm.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Hxlm.png"
+    },
+    {
+      "name": "ChatGPT6.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT6.png"
+    },
+    {
+      "name": "iBeta.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/iBeta.png"
+    },
+    {
+      "name": "Feizhu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Feizhu.png"
+    },
+    {
+      "name": "whatsapp2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/whatsapp2.png"
+    },
+    {
+      "name": "lightning1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/lightning1.png"
+    },
+    {
+      "name": "Xmss.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xmss.png"
+    },
+    {
+      "name": "EmbyHub2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EmbyHub2.png"
+    },
+    {
+      "name": "kele.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/kele.png"
+    },
+    {
+      "name": "box.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/box.png"
+    },
+    {
+      "name": "shadowrocket.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/shadowrocket.png"
+    },
+    {
+      "name": "Renzheyun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Renzheyun.png"
+    },
+    {
+      "name": "Loon_26.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_26.png"
+    },
+    {
+      "name": "Suwa.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Suwa.png"
+    },
+    {
+      "name": "lightning2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/lightning2.png"
+    },
+    {
+      "name": "Loon_24.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_24.png"
+    },
+    {
+      "name": "Microsoft1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Microsoft1.png"
+    },
+    {
+      "name": "Plusemby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Plusemby.png"
+    },
+    {
+      "name": "Flyingbird.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Flyingbird.png"
+    },
+    {
+      "name": "Loon_27.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_27.png"
+    },
+    {
+      "name": "Apple_Messages.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Messages.png"
+    },
+    {
+      "name": "telegram04.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/telegram04.png"
+    },
+    {
+      "name": "Nano.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Nano.png"
+    },
+    {
+      "name": "ChatGPT1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT1.png"
+    },
+    {
+      "name": "Nebula1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Nebula1.png"
+    },
+    {
+      "name": "ip.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ip.png"
+    },
+    {
+      "name": "NmEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/NmEmby.png"
+    },
+    {
+      "name": "Line.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Line.png"
+    },
+    {
+      "name": "StoneHenge.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/StoneHenge.png"
+    },
+    {
+      "name": "rsbd.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/rsbd.png"
+    },
+    {
+      "name": "tiktok(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/tiktok(2).png"
+    },
+    {
+      "name": "AppleNews.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AppleNews.png"
+    },
+    {
+      "name": "YYY1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/YYY1.png"
+    },
+    {
+      "name": "Soul.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Soul.png"
+    },
+    {
+      "name": "Loon_6.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_6.png"
+    },
+    {
+      "name": "Loon_8.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_8.png"
+    },
+    {
+      "name": "FileBall.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/FileBall.png"
+    },
+    {
+      "name": "MESL.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/MESL.png"
+    },
+    {
+      "name": "youtube.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/youtube.png"
+    },
+    {
+      "name": "AdBlock1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AdBlock1.png"
+    },
+    {
+      "name": "xfss.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/xfss.png"
+    },
+    {
+      "name": "douban.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/douban.png"
+    },
+    {
+      "name": "Reject.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Reject.png"
+    },
+    {
+      "name": "Apple_Classic.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Classic.png"
+    },
+    {
+      "name": "IEPL.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/IEPL.png"
+    },
+    {
+      "name": "Magpie.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Magpie.png"
+    },
+    {
+      "name": "quanqiu(3).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/quanqiu(3).png"
+    },
+    {
+      "name": "ShuiMu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ShuiMu.png"
+    },
+    {
+      "name": "Windy1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Windy1.png"
+    },
+    {
+      "name": "shutiao.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/shutiao.png"
+    },
+    {
+      "name": "GlaDos.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/GlaDos.png"
+    },
+    {
+      "name": "youtube(3).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/youtube(3).png"
+    },
+    {
+      "name": "YouTubeMusic.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/YouTubeMusic.png"
+    },
+    {
+      "name": "IMM.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/IMM.png"
+    },
+    {
+      "name": "Nas.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Nas.png"
+    },
+    {
+      "name": "Loon_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_01.png"
+    },
+    {
+      "name": "Apple_Mail.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Mail.png"
+    },
+    {
+      "name": "SSport+.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/SSport+.png"
+    },
+    {
+      "name": "Ytoo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Ytoo.png"
+    },
+    {
+      "name": "AdGuard.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AdGuard.png"
+    },
+    {
+      "name": "OpenAI_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/OpenAI_01.png"
+    },
+    {
+      "name": "Paypal1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Paypal1.png"
+    },
+    {
+      "name": "Jiji.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Jiji.png"
+    },
+    {
+      "name": "infiniPort.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/infiniPort.png"
+    },
+    {
+      "name": "CT1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CT1.png"
+    },
+    {
+      "name": "Ssp.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Ssp.png"
+    },
+    {
+      "name": "Loon_06.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_06.png"
+    },
+    {
+      "name": "speedtest.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/speedtest.png"
+    },
+    {
+      "name": "xianyu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/xianyu.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Hulu.png"
+    },
+    {
+      "name": "efc.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/efc.png"
+    },
+    {
+      "name": "EmbyX.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EmbyX.png"
+    },
+    {
+      "name": "bilibili(3).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bilibili(3).png"
+    },
+    {
+      "name": "Lightcat.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Lightcat.png"
+    },
+    {
+      "name": "BlinkLoad.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BlinkLoad.png"
+    },
+    {
+      "name": "Cloudflare.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Cloudflare.png"
+    },
+    {
+      "name": "EmbyHub1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EmbyHub1.png"
+    },
+    {
+      "name": "ShenNong.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ShenNong.png"
+    },
+    {
+      "name": "exchange01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/exchange01.png"
+    },
+    {
+      "name": "Surge.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Surge.png"
+    },
+    {
+      "name": "BigBen.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BigBen.png"
+    },
+    {
+      "name": "Meiying1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Meiying1.png"
+    },
+    {
+      "name": "PikPak.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/PikPak.png"
+    },
+    {
+      "name": "Quantumult_X.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X.png"
+    },
+    {
+      "name": "Boom.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Boom.png"
+    },
+    {
+      "name": "Quantumult_X_7.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_7.png"
+    },
+    {
+      "name": "Stash.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Stash.png"
+    },
+    {
+      "name": "HeiShan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/HeiShan.png"
+    },
+    {
+      "name": "Apple_iTunesStore.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_iTunesStore.png"
+    },
+    {
+      "name": "instagram1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/instagram1.png"
+    },
+    {
+      "name": "Weibo1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Weibo1.png"
+    },
+    {
+      "name": "Apple_Weather.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Weather.png"
+    },
+    {
+      "name": "FishChips.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/FishChips.png"
+    },
+    {
+      "name": "microsoft(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/microsoft(2).png"
+    },
+    {
+      "name": "Wd.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Wd.png"
+    },
+    {
+      "name": "AcEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AcEmby.png"
+    },
+    {
+      "name": "EFCloud.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EFCloud.png"
+    },
+    {
+      "name": "wechat.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/wechat.png"
+    },
+    {
+      "name": "ChatGPT4.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT4.png"
+    },
+    {
+      "name": "cainiao.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/cainiao.png"
+    },
+    {
+      "name": "EmbyClub1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EmbyClub1.png"
+    },
+    {
+      "name": "Xsus.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Xsus.png"
+    },
+    {
+      "name": "rocket.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/rocket.png"
+    },
+    {
+      "name": "Loon_19.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_19.png"
+    },
+    {
+      "name": "Qingning.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Qingning.png"
+    },
+    {
+      "name": "Apple_FaceTime.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_FaceTime.png"
+    },
+    {
+      "name": "OneDrive.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/OneDrive.png"
+    },
+    {
+      "name": "Stash_02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Stash_02.png"
+    },
+    {
+      "name": "disney(blue).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/disney(blue).png"
+    },
+    {
+      "name": "github(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/github(1).png"
+    },
+    {
+      "name": "Discord.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Discord.png"
+    },
+    {
+      "name": "PrimeVideo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/PrimeVideo.png"
+    },
+    {
+      "name": "StatueOfLiberty.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/StatueOfLiberty.png"
+    },
+    {
+      "name": "Paoluyun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Paoluyun.png"
+    },
+    {
+      "name": "twitter.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/twitter.png"
+    },
+    {
+      "name": "bilibili(2).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bilibili(2).png"
+    },
+    {
+      "name": "Windy.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Windy.png"
+    },
+    {
+      "name": "instagram2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/instagram2.png"
+    },
+    {
+      "name": "Gcp.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Gcp.png"
+    },
+    {
+      "name": "Clubhouse.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Clubhouse.png"
+    },
+    {
+      "name": "Paul.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Paul.png"
+    },
+    {
+      "name": "KQS.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/KQS.png"
+    },
+    {
+      "name": "XfEmby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/XfEmby.png"
+    },
+    {
+      "name": "Nijigen1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Nijigen1.png"
+    },
+    {
+      "name": "ChatGPT2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT2.png"
+    },
+    {
+      "name": "netflix.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/netflix.png"
+    },
+    {
+      "name": "wireguard.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/wireguard.png"
+    },
+    {
+      "name": "Prpr.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Prpr.png"
+    },
+    {
+      "name": "Suannai.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Suannai.png"
+    },
+    {
+      "name": "wangzherongyao.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/wangzherongyao.png"
+    },
+    {
+      "name": "Infinity.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Infinity.png"
+    },
+    {
+      "name": "mail1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/mail1.png"
+    },
+    {
+      "name": "Loon_3.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_3.png"
+    },
+    {
+      "name": "Csn1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Csn1.png"
+    },
+    {
+      "name": "ObeliscoDeBuenosAires.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ObeliscoDeBuenosAires.png"
+    },
+    {
+      "name": "stash1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/stash1.png"
+    },
+    {
+      "name": "Loon_16.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_16.png"
+    },
+    {
+      "name": "Loon_07.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_07.png"
+    },
+    {
+      "name": "douyu.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/douyu.png"
+    },
+    {
+      "name": "KakaoTalk.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/KakaoTalk.png"
+    },
+    {
+      "name": "macat.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/macat.png"
+    },
+    {
+      "name": "meituan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/meituan.png"
+    },
+    {
+      "name": "Apple_iCloud.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_iCloud.png"
+    },
+    {
+      "name": "Quantumult_X_1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_1.png"
+    },
+    {
+      "name": "bilibili(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/bilibili(1).png"
+    },
+    {
+      "name": "blacklist.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/blacklist.png"
+    },
+    {
+      "name": "CrossGreatWall.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/CrossGreatWall.png"
+    },
+    {
+      "name": "Apple_Arcade.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Apple_Arcade.png"
+    },
+    {
+      "name": "Music.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Music.png"
+    },
+    {
+      "name": "Yiri.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Yiri.png"
+    },
+    {
+      "name": "Skicat.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Skicat.png"
+    },
+    {
+      "name": "txvideo.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/txvideo.png"
+    },
+    {
+      "name": "spotify.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/spotify.png"
+    },
+    {
+      "name": "WYY.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/WYY.png"
+    },
+    {
+      "name": "AppStore.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/AppStore.png"
+    },
+    {
+      "name": "telegram03.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/telegram03.png"
+    },
+    {
+      "name": "Quantumult_X_2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X_2.png"
+    },
+    {
+      "name": "ChatGPT5.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/ChatGPT5.png"
+    },
+    {
+      "name": "Weibo-01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Weibo-01.png"
+    },
+    {
+      "name": "YiYuan.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/YiYuan.png"
+    },
+    {
+      "name": "Haoji.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Haoji.png"
+    },
+    {
+      "name": "Jiji1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Jiji1.png"
+    },
+    {
+      "name": "Linkcube2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Linkcube2.png"
+    },
+    {
+      "name": "BK.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BK.png"
+    },
+    {
+      "name": "sheep.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/sheep.png"
+    },
+    {
+      "name": "Dv.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Dv.png"
+    },
+    {
+      "name": "FishChips_02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/FishChips_02.png"
+    },
+    {
+      "name": "Mielink.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Mielink.png"
+    },
+    {
+      "name": "Anyland.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Anyland.png"
+    },
+    {
+      "name": "BaiPiaoWang.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BaiPiaoWang.png"
+    },
+    {
+      "name": "VV.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/VV.png"
+    },
+    {
+      "name": "Loon_20.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_20.png"
+    },
+    {
+      "name": "spotify(green).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/spotify(green).png"
+    },
+    {
+      "name": "Paypal2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Paypal2.png"
+    },
+    {
+      "name": "github2.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/github2.png"
+    },
+    {
+      "name": "Aws.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Aws.png"
+    },
+    {
+      "name": "Didiemby.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Didiemby.png"
+    },
+    {
+      "name": "baiyueguang.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/baiyueguang.png"
+    },
+    {
+      "name": "exchange.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/exchange.png"
+    },
+    {
+      "name": "Mainland.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Mainland.png"
+    },
+    {
+      "name": "Loon_7.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_7.png"
+    },
+    {
+      "name": "sultanahmedmosque.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/sultanahmedmosque.png"
+    },
+    {
+      "name": "netflix(red).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/netflix(red).png"
+    },
+    {
+      "name": "NeteaseUnblock.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/NeteaseUnblock.png"
+    },
+    {
+      "name": "Loon_09.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_09.png"
+    },
+    {
+      "name": "disney(black).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/disney(black).png"
+    },
+    {
+      "name": "EF.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/EF.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Azure.png"
+    },
+    {
+      "name": "Hxd.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Hxd.png"
+    },
+    {
+      "name": "Loon_22.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Loon_22.png"
+    },
+    {
+      "name": "Flybird.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Flybird.png"
+    },
+    {
+      "name": "XfEmby1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/XfEmby1.png"
+    },
+    {
+      "name": "play(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/play(1).png"
+    },
+    {
+      "name": "Nplayer.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Nplayer.png"
+    },
+    {
+      "name": "emby(1).png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/emby(1).png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Catnet.png"
+    },
+    {
+      "name": "Quantumult_X-02.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Quantumult_X-02.png"
+    },
+    {
+      "name": "smzdm.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/smzdm.png"
+    },
+    {
+      "name": "Bdd1.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Bdd1.png"
+    },
+    {
+      "name": "IN.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/IN.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/tieba.png"
+    },
+    {
+      "name": "BaiDuYun.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/BaiDuYun.png"
+    },
+    {
+      "name": "tiktok.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/tiktok.png"
+    },
+    {
+      "name": "Surge_01.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Surge_01.png"
+    },
+    {
+      "name": "Kuayue.png",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic-Icons/main/Icons/Kuayue.png"
+    }
+  ]
+}
