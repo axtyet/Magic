@@ -1,6 +1,6 @@
 {
   "name": "图标订阅",
-  "description": "自用图标，不定期更新",
+  "description": "整理自@fmz200，尺寸为108px或144px，数量约1499个",
   "icons": [
     {
       "name": "001",
@@ -188,11 +188,11 @@
     },
     {
       "name": "100",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/pokemon/100.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/lpl/200px/100.png"
     },
     {
       "name": "100",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/lpl/200px/100.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/pokemon/100.png"
     },
     {
       "name": "102",
@@ -312,11 +312,11 @@
     },
     {
       "name": "144",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/pokemon/144.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/texon/144.png"
     },
     {
       "name": "144",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/texon/144.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/pokemon/144.png"
     },
     {
       "name": "145",
@@ -460,7 +460,7 @@
     },
     {
       "name": "Apple",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Apple.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Apple.png"
     },
     {
       "name": "Apple",
@@ -468,7 +468,7 @@
     },
     {
       "name": "Apple",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Apple.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Apple.png"
     },
     {
       "name": "AppleMusic",
@@ -476,11 +476,11 @@
     },
     {
       "name": "AppleNews",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/AppleNews.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/AppleNews.png"
     },
     {
       "name": "AppleNews",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/AppleNews.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/AppleNews.png"
     },
     {
       "name": "Apple_AppleStore",
@@ -1764,11 +1764,11 @@
     },
     {
       "name": "Google",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Google.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Google.png"
     },
     {
       "name": "Google",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Google.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Google.png"
     },
     {
       "name": "GoogleDrive",
@@ -1832,11 +1832,11 @@
     },
     {
       "name": "Hulu",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Hulu.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Hulu.png"
     },
     {
       "name": "Hulu",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Hulu.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Hulu.png"
     },
     {
       "name": "Hxd",
@@ -2144,19 +2144,19 @@
     },
     {
       "name": "Loon_10",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/Loon_10.png"
-    },
-    {
-      "name": "Loon_10",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Loon_10.png"
     },
     {
-      "name": "Loon_11",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/Loon_11.png"
+      "name": "Loon_10",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/Loon_10.png"
     },
     {
       "name": "Loon_11",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Loon_11.png"
+    },
+    {
+      "name": "Loon_11",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/Loon_11.png"
     },
     {
       "name": "Loon_12",
@@ -2300,11 +2300,11 @@
     },
     {
       "name": "Microsoft",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Microsoft.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Microsoft.png"
     },
     {
       "name": "Microsoft",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Microsoft.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/Microsoft.png"
     },
     {
       "name": "Midsummer",
@@ -2484,11 +2484,11 @@
     },
     {
       "name": "OneDrive",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/softlyx/OneDrive.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/lige47/OneDrive.png"
     },
     {
       "name": "OneDrive",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/lige47/OneDrive.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/softlyx/OneDrive.png"
     },
     {
       "name": "OnlyFans",
@@ -2624,11 +2624,11 @@
     },
     {
       "name": "PrimeVideo",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/PrimeVideo.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/PrimeVideo.png"
     },
     {
       "name": "PrimeVideo",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/PrimeVideo.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/PrimeVideo.png"
     },
     {
       "name": "Proxy",
@@ -2660,11 +2660,11 @@
     },
     {
       "name": "Quantumult_X",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/Quantumult_X.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Quantumult_X.png"
     },
     {
       "name": "Quantumult_X",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/Quantumult_X.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/Quantumult_X.png"
     },
     {
       "name": "Quantumult_X-02",
@@ -4775,6 +4775,10 @@
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/TheWhiteHouse.png"
     },
     {
+      "name": "Tieba",
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/Tieba.png"
+    },
+    {
       "name": "TikTok",
       "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/TikTok.png"
     },
@@ -6032,11 +6036,11 @@
     },
     {
       "name": "tencentcloud",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/tencentcloud.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/tencentcloud.png"
     },
     {
       "name": "tencentcloud",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/tencentcloud.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/erdongchanyo/tencentcloud.png"
     },
     {
       "name": "texon",
@@ -6120,11 +6124,11 @@
     },
     {
       "name": "wechat",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/wechat.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/wechat.png"
     },
     {
       "name": "wechat",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/wechat.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/wechat.png"
     },
     {
       "name": "weibo",
@@ -6164,11 +6168,11 @@
     },
     {
       "name": "xbox",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/xbox.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/xbox.png"
     },
     {
       "name": "xbox",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/xbox.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/xbox.png"
     },
     {
       "name": "xfss",
@@ -6216,11 +6220,11 @@
     },
     {
       "name": "zhihu",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/zhihu.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/zhihu.png"
     },
     {
       "name": "zhihu",
-      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/apps/zhihu.png"
+      "url": "https://raw.githubusercontent.com/axtyet/Magic/main/Icons/chxm1023/zhihu.png"
     },
     {
       "name": "zl-icon-jp-flag",
