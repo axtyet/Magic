@@ -6,7 +6,7 @@ def generate_json():
     image_folder = 'Icons'
     json_data = {
         "name": "图标订阅",
-        "description": "自用图标，不定期更新",
+        "description": "整理自@fmz200，尺寸为108px或144px，数量约1499个",
         "icons": []
     }
     #递归遍历Icons文件夹及其子文件夹中的。png文件
